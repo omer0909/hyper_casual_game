@@ -844,4 +844,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/2.unity
   - Assets/Scenes/3.unity
   - Assets/Scenes/finish.unity
-  playerPath: /home/ooz/Desktop/test.apk
+  playerPath: /home/ooz/hyper_casual_game/build.apk
